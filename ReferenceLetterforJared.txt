@@ -1,0 +1,12 @@
+To Whom it May Concern,
+I first met Jared at the City College of San Francisco (CCSF)/Google Hackathon in 2015. I had recently joined the faculty at CCSF and my former teammates from Google came to CCSF work on various projects with students including automating tasks with Google Apps Scripts and creating Chrome Extensions. After the hackathon, I sent out a call asking for students to help with various projects for the CCSF Library. Despite having never created a Chrome Extension before, Jared volunteered to create a canned response extension for us. 
+Jared was vigilant about getting all of the required information from the intended users (librarians). We worked together on a product requirement document and he was also sure to check-in to see if the development decisions he was making were in keeping with the needs of the users. He developed the extension quickly and designed the extension in such a way that it was both easy and intuitive for me to continually modify the extension to meet our changing needs.
+There are many things we could and should do more efficiently in the library. Seeing Jared’s extension got the whole library excited about the other possibilities and in turn, really boosted morale. 
+I volunteered to write this letter for Jared because it was a pleasure to work with him. The faculty (including me) who benefit from his extension are very grateful for his work. I’m sure Jared’s communication and development skills in addition to his empathy and concern for users would be valuable wherever he works. Please feel free to contact me if you have any questions.
+Sincerely,
+Julian Prentice
+Librarian
+City College of San Francisco
+415-452-5471
+jprentice@ccsf.edu
+
