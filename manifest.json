@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "CCSF Libray canned responses",
+  "description": "This extension will allow librians to quickly respond to students",
+  "version": "1.0",
+
+  "browser_action": {
+   "default_icon": "books.png",
+   "default_popup": "main.html"
+  },
+  "permissions": [
+   "activeTab"
+   ]
+}
